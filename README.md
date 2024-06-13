@@ -12,7 +12,7 @@ New widgets can be developed without modifying the Miro codebase. This allows to
 2. Clone the Canvas SDK repository to your machine. This monorepo contains various project published as NPM packages.
 
     ```bash
-    git clone https://github.com/miroapp-dev/surface/tree/master.git
+    git clone git@github.com:miroapp-dev/surface.git
     ```
 
 ## Setting up the environment
