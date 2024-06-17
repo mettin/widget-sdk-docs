@@ -121,7 +121,7 @@ Open the browser and navigate to [http://localhost:8080/](http://localhost:8080/
 
 - **Language**: TypeScript
 - **Location**: `src/Frontend/WidgetClient/`
-- [README](./src/Frontend/WidgetClient/README.md)
+- [README](https://github.com/miroapp-dev/surface/blob/master/src/Frontend/WidgetClient/README.md)
 
 ### CanvasAPI
 
@@ -130,7 +130,7 @@ TBD: A declarative, stateless, and retained mode graphics API.
 - **Language**: TypeScript
 - **Location**: `src/CanvasAPI/`
 - **API documentation**: _TBA_
-- [README](./src/CanvasAPI/README.md)
+- [README](https://github.com/miroapp-dev/surface/blob/master/src/CanvasAPI/README.md)
 
 ### SurfaceWidgetSDK
 
@@ -139,7 +139,7 @@ TBD: An SDK for developing widgets using a React-like API.
 - **Language**: TypeScript
 - **Location**: `src/SurfaceWidgetSDK/`
 - [API documentation](https://invisionapp.atlassian.net/wiki/spaces/EXTINTEGRATIONS/pages/2627731581/WidgetSDK+Documentation)
-- [README](./src/SurfaceWidgetSDK/README.md)
+- [README](https://github.com/miroapp-dev/surface/blob/master/src/SurfaceWidgetSDK/README.md)
 
 ### New Engine
 
@@ -148,7 +148,7 @@ TBD: An SDK for developing widgets using a React-like API.
 - **Language**: C++
 - **Location**: all `.cpp` files in `src/`
 - [API documentation](https://test-reports.studio/engine-public-api-docs/)
-- [README](./README.engine.md)
+- [README](https://github.com/miroapp-dev/surface/blob/master/README.engine.md)
 
 ### WidgetEditor
 
@@ -156,7 +156,7 @@ A React component that wraps the Monaco Code Editor fully configured for develop
 
 - **Language**: TypeScript
 - **Location**: `src/WidgetEditor/`
-- [README](./src/WidgetEditor/README.md)
+- [README](https://github.com/miroapp-dev/surface/blob/master/src/WidgetEditor/README.md)
 
 ## Read more
 
