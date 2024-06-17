@@ -60,7 +60,7 @@ xcode-select -p
 If you get some other response, run:
 
 ```bash
-sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer`
+sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
 ```
 
 Additionally, make sure to clean Bazel cache by running `bazel clean --expunge`.
