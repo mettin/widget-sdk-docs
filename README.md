@@ -40,7 +40,7 @@ Install [Xcode](https://apps.apple.com/fr/app/xcode/id497799835?mt=12) version 1
 To check the version of Xcode, run:
 
 ```bash
-/usr/bin/xcodebuild -version
+/usr/bin/xcodebuild -version`
 ```
 
 The result should look similar to this:
@@ -111,7 +111,7 @@ The Canvas SDK contains the following projects:
 
 A standalone playground to explore the rendering engine and SurfaceWidgetSDK.
 
-Run the following command to start the playground:
+Inside of the `/surface` folder, run the following command to start the playground:
 
 ```bash
 bazel run //:WidgetClient
