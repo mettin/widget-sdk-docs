@@ -112,6 +112,7 @@ The Canvas SDK contains the following projects:
 A standalone playground to explore the rendering engine and SurfaceWidgetSDK.
 
 Inside of the `/surface` folder, run the following command to start the playground:
+_This command can take a while when you run it for the first time_
 
 ```bash
 bazel run //:WidgetClient
