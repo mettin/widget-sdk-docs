@@ -40,7 +40,7 @@ Install [Xcode](https://apps.apple.com/fr/app/xcode/id497799835?mt=12) version 1
 To check the version of Xcode, run:
 
 ```bash
-/usr/bin/xcodebuild -version`
+/usr/bin/xcodebuild -version
 ```
 
 The result should look similar to this:
